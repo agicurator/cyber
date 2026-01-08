@@ -1,0 +1,7 @@
+{
+  "name": "Cyber Oracle AI",
+  "description": "A futuristic branding tool for fortune tellers and spiritual practitioners using Gemini AI to generate identities and visual assets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
